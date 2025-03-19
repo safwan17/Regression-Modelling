@@ -1,1 +1,2 @@
-# Regression-Modelling
+This is the code from the StatQuest...
+* Linear Regression in R: https://youtu.be/u1cc1r_Y7M0
